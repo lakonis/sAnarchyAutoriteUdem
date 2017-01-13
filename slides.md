@@ -7,8 +7,8 @@ _Les constructions de l'autorité dans un dispositif de production littéraire c
 
 &nbsp;
 
-<small>Nicolas Sauret / Ariane Mayer<br>Iri, Centre Pompidou<br>-<br>
-Colloque Médiations informatisées de l'autorité<br>GRIPIC, ISCC, ComSol - 17 & 18 mars 2016</small>
+<small>Nicolas Sauret (CRC sur les écritures numériques - UdeM) <br> Ariane Mayer (UTC & Iri, Centre Pompidou)<br>-<br>
+Figures et expériences de l'autorité en littérature<br>3e colloque étudiant du Dllf - Udem - 19 & 20 janvier 2017</small>
 
 ===
 
@@ -694,15 +694,15 @@ topologique | <i class="fa fa-arrow-right"></i>  | mise en évidence de l'état 
 ## Merci !
 &nbsp;
 
-Carnet de recherche : [lakonis.github.io/behindanarchy/](http://lakonis.github.io/behindanarchy/)
+Carnet de recherche : [nicolassauret.net/behindanarchy/](http://nicolassauret.net/behindanarchy/)
 
 &nbsp;
 
 &nbsp; | contacts
 :--|:--
-**Nicolas Sauret** | _nicolas.sauret@iri.centrepompidou.fr<br>@nicolasauret_
+**Nicolas Sauret** | _nicolas.sauret@umontreal.ca<br>@nicolasauret_
 **Ariane Mayer** | _ariane0mayer@gmail.com_
 
 &nbsp;
 
-<small>Colloque Médiations informatisées de l'autorité<br>GRIPIC, ISCC, ComSol - 17 & 18 mars 2016</small>
+<small>Figures et expériences de l'autorité en littérature<br>3e colloque étudiant du Dllf - Udem - 19 & 20 janvier 2017</small>
