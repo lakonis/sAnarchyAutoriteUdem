@@ -22,3 +22,8 @@ table{width: 100%; margin-bottom: 3rem;}
 .reveal h3 {
   margin-bottom: 1em;
 }
+
+.reveal section img.logo {
+  border: none;
+  box-shadow: none;
+}

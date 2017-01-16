@@ -7,7 +7,8 @@ _Les constructions de l'autorité dans un dispositif de production littéraire c
 
 &nbsp;
 
-<small>Nicolas Sauret (CRC sur les écritures numériques - UdeM) <br> Ariane Mayer (UTC & Iri, Centre Pompidou)<br>-<br>
+<small>Nicolas Sauret (CRC sur les écritures numériques - UdeM)
+<br> Ariane Mayer (UTC & Iri, Centre Pompidou)<br>-<br>
 Figures et expériences de l'autorité en littérature<br>3e colloque étudiant du Dllf - Udem - 19 & 20 janvier 2017</small>
 
 ===
@@ -694,15 +695,19 @@ topologique | <i class="fa fa-arrow-right"></i>  | mise en évidence de l'état 
 ## Merci !
 &nbsp;
 
-Carnet de recherche : [nicolassauret.net/behindanarchy/](http://nicolassauret.net/behindanarchy/)
 
 &nbsp;
+
 
 &nbsp; | contacts
 :--|:--
 **Nicolas Sauret** | _nicolas.sauret@umontreal.ca<br>@nicolasauret_
 **Ariane Mayer** | _ariane0mayer@gmail.com_
+**Carnet de recherche** | [_nicolassauret.net/behindanarchy/_](http://nicolassauret.net/behindanarchy/)
 
 &nbsp;
 
-<small>Figures et expériences de l'autorité en littérature<br>3e colloque étudiant du Dllf - Udem - 19 & 20 janvier 2017</small>
+<img src="img/LogoENDT10-2016.png" width="30%"> <!-- .element: class="logo" -->
+
+
+<!-- <small>Figures et expériences de l'autorité en littérature<br>3e colloque étudiant du Dllf - Udem - 19 & 20 janvier 2017</small> -->
