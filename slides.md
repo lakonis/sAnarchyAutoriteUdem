@@ -695,9 +695,7 @@ topologique | <i class="fa fa-arrow-right"></i>  | mise en évidence de l'état 
 ## Merci !
 &nbsp;
 
-
 &nbsp;
-
 
 &nbsp; | contacts
 :--|:--
